@@ -1,11 +1,11 @@
-/Makefile/1.2/Sun Jan 28 19:34:28 2001//
-/extern.h/1.6/Thu Jul 16 04:31:25 2015//
-/getty.8/1.17/Thu Mar 31 17:27:18 2022//
-/gettytab.5/1.28/Sat May 27 09:31:13 2017//
-/gettytab.h/1.8/Fri Nov  6 16:42:30 2015//
-/init.c/1.10/Fri Nov  6 16:42:30 2015//
-/main.c/1.54/Fri Jun 28 13:32:53 2019//
-/pathnames.h/1.4/Thu Nov 15 03:04:10 2018//
-/subr.c/1.28/Thu Jun 14 23:19:27 2018//
-/ttys.5/1.14/Fri Jul 29 13:56:36 2022//
+/Makefile/1.2/Thu Jan  4 08:55:11 2024//
+/extern.h/1.6/Thu Jan  4 08:55:11 2024//
+/getty.8/1.17/Thu Jan  4 08:55:11 2024//
+/gettytab.5/1.28/Thu Jan  4 08:55:11 2024//
+/gettytab.h/1.8/Thu Jan  4 08:55:11 2024//
+/init.c/1.10/Thu Jan  4 08:55:11 2024//
+/main.c/1.54/Thu Jan  4 08:55:11 2024//
+/pathnames.h/1.4/Thu Jan  4 08:55:11 2024//
+/subr.c/1.28/Thu Jan  4 08:55:11 2024//
+/ttys.5/1.14/Thu Jan  4 08:55:11 2024//
 D

@@ -1,13 +1,3 @@
-/Makefile/1.1.1.1/Mon Jan  5 15:43:54 2004//
-/abi.txt/1.1.1.1/Mon Jan  5 15:43:54 2004//
-/configopts.html/1.1.1.1/Mon Jan  5 15:43:54 2004//
-/debug.html/1.1.1.1/Mon Jan  5 15:43:54 2004//
-/documentation.html/1.1.1.1/Mon Jan  5 15:43:56 2004//
-/explanations.html/1.1.1.1/Mon Jan  5 15:43:56 2004//
-/install.html/1.1.1.1/Mon Jan  5 15:43:56 2004//
-/lib3styles.css/1.1.1.1/Mon Jan  5 15:43:56 2004//
-/makedoc.awk/1.1.1.1/Mon Jan  5 15:43:56 2004//
-/test.html/1.1.1.1/Mon Jan  5 15:43:56 2004//
 D/17_intro////
 D/18_support////
 D/19_diagnostics////
@@ -21,3 +11,13 @@ D/26_numerics////
 D/27_io////
 D/ext////
 D/faq////
+/Makefile/1.1.1.1/Thu Jan  4 08:51:32 2024//
+/abi.txt/1.1.1.1/Thu Jan  4 08:51:32 2024//
+/configopts.html/1.1.1.1/Thu Jan  4 08:51:32 2024//
+/debug.html/1.1.1.1/Thu Jan  4 08:51:32 2024//
+/documentation.html/1.1.1.1/Thu Jan  4 08:51:32 2024//
+/explanations.html/1.1.1.1/Thu Jan  4 08:51:32 2024//
+/install.html/1.1.1.1/Thu Jan  4 08:51:32 2024//
+/lib3styles.css/1.1.1.1/Thu Jan  4 08:51:32 2024//
+/makedoc.awk/1.1.1.1/Thu Jan  4 08:51:32 2024//
+/test.html/1.1.1.1/Thu Jan  4 08:51:32 2024//

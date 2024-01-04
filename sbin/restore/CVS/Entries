@@ -1,12 +1,12 @@
-/Makefile/1.6/Wed Mar 30 06:38:43 2016//
-/dirs.c/1.42/Fri Jun 28 13:32:46 2019//
-/extern.h/1.13/Sat Jan 21 08:31:44 2017//
-/interactive.c/1.30/Tue Jan 20 18:22:21 2015//
-/main.c/1.26/Sat Jan 21 08:31:44 2017//
-/restore.8/1.41/Thu Mar 31 17:27:20 2022//
-/restore.c/1.18/Wed Mar  8 04:43:07 2023//
-/restore.h/1.10/Thu Jan 21 00:16:36 2021//
-/symtab.c/1.24/Sun Oct 24 21:24:22 2021//
-/tape.c/1.53/Wed Mar  8 04:43:07 2023//
-/utilities.c/1.20/Fri Jun 28 13:32:46 2019//
+/Makefile/1.6/Thu Jan  4 08:55:56 2024//
+/dirs.c/1.42/Thu Jan  4 08:55:56 2024//
+/extern.h/1.13/Thu Jan  4 08:55:56 2024//
+/interactive.c/1.30/Thu Jan  4 08:55:56 2024//
+/main.c/1.26/Thu Jan  4 08:55:56 2024//
+/restore.8/1.41/Thu Jan  4 08:55:56 2024//
+/restore.c/1.18/Thu Jan  4 08:55:56 2024//
+/restore.h/1.10/Thu Jan  4 08:55:56 2024//
+/symtab.c/1.24/Thu Jan  4 08:55:56 2024//
+/tape.c/1.53/Thu Jan  4 08:55:56 2024//
+/utilities.c/1.20/Thu Jan  4 08:55:56 2024//
 D
