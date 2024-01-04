@@ -1,0 +1,12 @@
+/CMakeLists.txt/1.1.1.1/Sat Nov 11 18:00:12 2023/-ko/
+/Xtensa.td/1.1.1.1/Sat Nov 11 18:00:12 2023/-ko/
+/XtensaInstrFormats.td/1.1.1.1/Sat Nov 11 18:00:12 2023/-ko/
+/XtensaInstrInfo.td/1.1.1.1/Sat Nov 11 18:00:12 2023/-ko/
+/XtensaOperands.td/1.1.1.1/Sat Nov 11 18:00:12 2023/-ko/
+/XtensaRegisterInfo.td/1.1.1.1/Sat Nov 11 18:00:12 2023/-ko/
+/XtensaTargetMachine.cpp/1.1.1.1/Sat Nov 11 18:00:12 2023/-ko/
+/XtensaTargetMachine.h/1.1.1.1/Sat Nov 11 18:00:12 2023/-ko/
+D/AsmParser////
+D/Disassembler////
+D/MCTargetDesc////
+D/TargetInfo////
